@@ -12,13 +12,15 @@ A* Search to solve "N puzzle game" with 3 different Heuristics
 Offline 3
 ---------
 Local Search to solve "Travelling Salesman Problem" Using 5 Different Approaches:
-  A - Construction Heuristics
+
+
+ A - Construction Heuristics
 --------------------------
       1. Nearest Neighbour
       2. Nearest Insertion
       3. Cheapest Insertion
       
-  B - Improvement Heuristics
+ B - Improvement Heuristics
 --------------------------
       1. 2-Opt Heuristics
       2. 3-opt Heuristics
